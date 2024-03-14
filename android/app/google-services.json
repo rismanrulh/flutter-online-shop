@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990560162024",
+    "project_id": "shamo-dce40",
+    "storage_bucket": "shamo-dce40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990560162024:android:f6f21ff87663195aadf95d",
+        "android_client_info": {
+          "package_name": "com.prevalensi.shamo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJRX42kbywJ7gI9oL404_Vp7eSPLuIjPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
